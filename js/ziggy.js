@@ -35,7 +35,7 @@ function setImages(){
     currentImages = document.getElementsByClassName("preview");
         for (var i = 0; i < currentImages.length; i++) { 
          currentImages[i].setAttribute("tabindex", "0"); 
-       
+       console.log("tab index successful");    
 
        
        
