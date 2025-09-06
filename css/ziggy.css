@@ -1,4 +1,7 @@
 /*Name this external file ziggy.css*/
+h1{
+  text-align: center;
+}
 body{
 		margin: 2%;
 		border: 1px solid black;
